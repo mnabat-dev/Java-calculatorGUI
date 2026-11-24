@@ -1,5 +1,4 @@
----
-## DE Deutsche Version
+## 🇩🇪 Deutsche Version
 
 *[English version below](#-english-version)*
 
