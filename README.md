@@ -1,3 +1,8 @@
+---
+## DE Deutsche Version
+
+*[English version below](#-english-version)*
+
 # Java-JFrame-Taschenrechner
 
 Ein Desktop-Taschenrechner in Java mit Swing (`JFrame`), bei dem die Benutzeroberfläche (`TaschenrechnerGUI`) von der Rechenlogik (`rechnen`) getrennt ist.
@@ -21,7 +26,9 @@ Ein Desktop-Taschenrechner in Java mit Swing (`JFrame`), bei dem die Benutzerobe
 2. Kompiliere die Java-Dateien: `javac rechnen.java TaschenrechnerGUI.java`
 3. Starte das Programm: `java Taschenrechner`
 
-#
+---
+
+## 🇬🇧 English Version
 
 # Java JFrame Calculator
 
@@ -45,3 +52,5 @@ A desktop calculator built with Java and Swing (`JFrame`), separating the graphi
 1. Make sure a JDK is installed.
 2. Compile the Java source files (`javac rechnen.java TaschenrechnerGUI.java`).
 3. Run `java TaschenrechnerGUI`.
+
+Author MN
